@@ -23,7 +23,8 @@ python3 sample.py
 ## Todo
 - [ ] Switch Tornade
 - [x] Write down README
-- [ ] Add badge
+- [x] Add badge
+- [ ] became a package and Add to PyPy 
 
 ## Author
 [hurutoriya](https://github.com/hurutoriya)
